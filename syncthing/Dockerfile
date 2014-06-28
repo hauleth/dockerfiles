@@ -7,4 +7,4 @@ RUN apt-get install -y
 
 RUN useradd -d /repositories -m -s /usr/bin/git-shell git
 
-ADD https://github.com/calmh/syncthing/releases/download/v0.8.11/syncthing-linux-amd64-v0.8.11.tar.gz /tmp/suncthing.tar.gz
+ADD https://github.com/calmh/syncthing/releases/download/v0.8.11/syncthing-linux-amd64-v0.8.11.tar.gz /tmp/syncthing.tar.gz
