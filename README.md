@@ -4,8 +4,9 @@ Dockerfiles for tools that I use in my casual work.
 
 Available containers:
 
-- [Drone.io][drone]
 - [Gogs][gogs]
+- Syncthing
+- OpenTTD
 
 ## Licence
 
